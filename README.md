@@ -88,7 +88,7 @@ Two successful and two failed rollout examples are shown below.
   </tr>
   <tr>
     <td>
-      <video src="rollouts/2026_06_29/2026_06_29-00_44_05--episode=1--success=True--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4" controls width="360"></video>
+      <video src="https://github.com/Iongshiba/UniVLA/blob/main/rollouts/2026_06_29/2026_06_29-00_44_05--episode%3D1--success%3DTrue--task%3Dput_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4" controls width="360"></video>
     </td>
     <td>
       <video src="rollouts/2026_06_29/2026_06_29-00_44_05--episode=101--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4" controls width="360"></video>
