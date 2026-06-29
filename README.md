@@ -88,10 +88,10 @@ Two successful and two failed rollout examples are shown below.
   </tr>
   <tr>
     <td>
-      <video src="https://github.com/user-attachments/assets/cdc159d2-96aa-4484-a4b3-bd917ce86c1d" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/cdc159d2-96aa-4484-a4b3-bd917ce86c1d" style="object-fit:cover;" autoplay loop muted></video></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/1daac795-cbc7-49bb-8ed5-8f99c7d39195" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/1daac795-cbc7-49bb-8ed5-8f99c7d39195" style="object-fit:cover;" autoplay loop muted></video></video>
     </td>
   </tr>
   <tr>
@@ -100,10 +100,10 @@ Two successful and two failed rollout examples are shown below.
   </tr>
   <tr>
     <td>
-      <video src="https://github.com/user-attachments/assets/55091bac-4a3c-483b-87a3-46d16d9cd54a" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/55091bac-4a3c-483b-87a3-46d16d9cd54a" style="object-fit:cover;" autoplay loop muted></video></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/81a19594-4e92-4c13-bc4d-f82478930af2" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/81a19594-4e92-4c13-bc4d-f82478930af2" style="object-fit:cover;" autoplay loop muted></video></video>
     </td>
   </tr>
 </table>
