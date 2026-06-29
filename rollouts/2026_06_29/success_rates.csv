@@ -1,0 +1,12 @@
+task,successes,failures,total,success_rate
+pick_up_the_book_and_place_it_in_the_back_compartm,43,7,50,0.860000
+put_both_moka_pots_on_the_stove,34,16,50,0.680000
+put_both_the_alphabet_soup_and_the_cream_cheese_bo,46,4,50,0.920000
+put_both_the_alphabet_soup_and_the_tomato_sauce_in,47,3,50,0.940000
+put_both_the_cream_cheese_box_and_the_butter_in_th,50,0,50,1.000000
+put_the_black_bowl_in_the_bottom_drawer_of_the_cab,49,1,50,0.980000
+put_the_white_mug_on_the_left_plate_and_put_the_ye,37,13,50,0.740000
+put_the_white_mug_on_the_plate_and_put_the_chocola,42,8,50,0.840000
+put_the_yellow_and_white_mug_in_the_microwave_and_,44,6,50,0.880000
+turn_on_the_stove_and_put_the_moka_pot_on_it,50,0,50,1.000000
+OVERALL,442,58,500,0.884000
