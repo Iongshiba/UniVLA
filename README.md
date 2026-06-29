@@ -88,10 +88,10 @@ Two successful and two failed rollout examples are shown below.
   </tr>
   <tr>
     <td>
-      <video src="https://github.com/Iongshiba/UniVLA/blob/main/rollouts/2026_06_29/2026_06_29-00_44_05--episode%3D1--success%3DTrue--task%3Dput_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/cdc159d2-96aa-4484-a4b3-bd917ce86c1d" controls width="360"></video>
     </td>
     <td>
-      <video src="https://raw.githubusercontent.com/Iongshiba/UniVLA/main/rollouts/2026_06_29/2026_06_29-00_44_05--episode=101--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/1daac795-cbc7-49bb-8ed5-8f99c7d39195" controls width="360"></video>
     </td>
   </tr>
   <tr>
@@ -100,10 +100,10 @@ Two successful and two failed rollout examples are shown below.
   </tr>
   <tr>
     <td>
-      <video src="rollouts/2026_06_29/2026_06_29-00_44_05--episode=19--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/55091bac-4a3c-483b-87a3-46d16d9cd54a" controls width="360"></video>
     </td>
     <td>
-      <video src="rollouts/2026_06_29/2026_06_29-00_44_05--episode=207--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4" controls width="360"></video>
+      <video src="https://github.com/user-attachments/assets/81a19594-4e92-4c13-bc4d-f82478930af2" controls width="360"></video>
     </td>
   </tr>
 </table>
