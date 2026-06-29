@@ -1,6 +1,6 @@
-# UniVLA LIBERO Reproduction Report
+# UniVLA LIBERO Reproduction
 
-This repository records my local reproduction of the UniVLA LIBERO evaluation for the postdoc report.
+This repository records my local reproduction of the UniVLA LIBERO evaluation
 
 ## 1. Setup Environment
 
